@@ -23,14 +23,14 @@ To use this script, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/gcbirat12/Collatz.git
 
 2. Change your working directory to the project folder:
 
     cd your-repo
 3. Run the script:
 
-   python collatz_sequence_plotter.py
+   Collatz.ipynb
 
 
 The script will calculate and plot the Collatz sequence for numbers from 1 to 500.
