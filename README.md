@@ -35,31 +35,6 @@ To use this script, follow these steps:
 
 The script will calculate and plot the Collatz sequence for numbers from 1 to 500.
 
-## Example Output
-
-Here is an example of what the script's output might look like:
-
-Number: 1
-Sequence: [1]
-
-[Plot for Number 1](/path/to/plot_for_1.png)
-
-Number: 2
-Sequence: [2, 1]
-
-
-[Plot for Number 2](/path/to/plot_for_2.png)
-
-...
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- The Collatz conjecture is a classic mathematical problem.
-- This script uses the `matplotlib` library for plotting.
 
 Feel free to contribute to this project or use the code for your own purposes!
 
